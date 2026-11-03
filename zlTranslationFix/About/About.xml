@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <packageId>zl.zlTranslationFix</packageId>
+    <name>ZL's Translation Fix</name>
+    <author>zl_c26</author>
+    <description>用于集中修正和覆盖其他 Mod 的汉化。</description>
+    <supportedVersions>
+        <li>1.6</li>
+    </supportedVersions>
+        <modDependencies>
+        <li>
+            <packageId>brrainz.harmony</packageId>
+            <displayName>Harmony</displayName>
+            <downloadUrl>https://steamcommunity.com/workshop/filedetails/?id=2009463077</downloadUrl>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+        </li>
+    </modDependencies>
+    <loadAfter>
+        <li>PeteTimesSix.SimpleSidearms</li>
+        <li>Mlie.MarkThatPawn</li>
+    </loadAfter>
+</ModMetaData>

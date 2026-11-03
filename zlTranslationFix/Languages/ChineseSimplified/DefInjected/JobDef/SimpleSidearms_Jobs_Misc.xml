@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EquipSecondary.reportString>正在将TargetA装备为副武器。</EquipSecondary.reportString>
+  <ReequipSecondary.reportString>正在将TargetA重新装备为副武器。</ReequipSecondary.reportString>
+  <ReequipSecondaryCombat.reportString>正在将TargetA重新装备为副武器。</ReequipSecondaryCombat.reportString>
+
+
+</LanguageData>
