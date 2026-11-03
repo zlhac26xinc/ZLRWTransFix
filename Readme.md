@@ -36,9 +36,11 @@ ThingDef: Frame_Zombgrella.label '人物编辑墓（建造中）'
 ThingDef: Frame_Zombgrella.description '墓式工业人形整形装置\n\n<i><color=#66E0E4FF>Character Editor</color></i>'
 ```
 
-Mod Options Sort 的按钮文本，写了 prefix 补丁，Assemblies 已修复
+Mod Options Sort 的按钮文本，Assemblies 已修复
 先在 dnSpy 看清类型，别让 AI 猜
 
 Bed Rest For Food Poisoning 作者名打错一个字母（或者是故意的？），直接在原模组 About.xml 修改了
 
 Toggle Harvest 的按钮文本，Keyed 已修复
+
+Numbers 原版自带汉化的按钮被Numbers 汉化改成了英文？MainButtonDef 已修复

@@ -18,5 +18,6 @@
     <loadAfter>
         <li>PeteTimesSix.SimpleSidearms</li>
         <li>Mlie.MarkThatPawn</li>
+        <li>Jaxe.ToggleHarvest</li>
     </loadAfter>
 </ModMetaData>
