@@ -43,4 +43,6 @@ Bed Rest For Food Poisoning 作者名打错一个字母（或者是故意的？�
 
 Toggle Harvest 的按钮文本，Keyed 已修复
 
-Numbers 原版自带汉化的按钮被Numbers 汉化改成了英文？MainButtonDef 已修复
+Numbers 原版自带汉化的按钮被 Numbers 汉化改成了英文？MainButtonDef 已修复
+
+Realistic Rooms Rewritten 把 1.4 的汉化补丁复制进来了，Keyed 已修复

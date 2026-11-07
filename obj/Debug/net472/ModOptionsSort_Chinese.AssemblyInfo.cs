@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ModOptionsSort_Chinese")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5e6b22984291491633f4a24b324842335bfc975")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ca191c5be0be01bc79dda8c9e52a044e14adab6")]
 [assembly: System.Reflection.AssemblyProductAttribute("ModOptionsSort_Chinese")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ModOptionsSort_Chinese")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

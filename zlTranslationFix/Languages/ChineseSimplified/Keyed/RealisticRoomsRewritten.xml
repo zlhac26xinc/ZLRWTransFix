@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <RealisticRoomsSettingsCategoryLabel>真实的房间大小</RealisticRoomsSettingsCategoryLabel>
+  <SettingsLabelTip>低级舒适度的数值必须小于或等于高级舒适度的数值，由于游戏的运行方式，建议数值以0.5为结尾。</SettingsLabelTip>
+  <SettingsRTLabel>有点狭窄的最小值</SettingsRTLabel>
+  <SettingsASLabel>正常规模的最小值</SettingsASLabel>
+  <SettingsSSLabel>有点宽敞的最小值</SettingsSSLabel>
+  <SettingsQSLabel>相当宽敞的最小值</SettingsQSLabel>
+  <SettingsVSLabel>非常宽敞的最小值</SettingsVSLabel>
+  <SettingsESLabel>极度宽敞的最小值</SettingsESLabel>
+  <SettingsResetButton>重置至默认数值</SettingsResetButton>
+
+</LanguageData>
