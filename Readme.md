@@ -46,3 +46,5 @@ Toggle Harvest 的按钮文本，Keyed 已修复
 Numbers 原版自带汉化的按钮被 Numbers 汉化改成了英文？MainButtonDef 已修复
 
 Realistic Rooms Rewritten 把 1.4 的汉化补丁复制进来了，Keyed 已修复
+
+Room Quality Colors 文字太长导致数值不显示，把“印象有些深刻”改短了（改的时候没绷住），RoomStatDef 已修复

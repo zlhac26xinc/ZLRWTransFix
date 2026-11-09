@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<Impressiveness.scoreStages.somewhat_impressive.label>&lt;color=#5EA4FF&gt;中有印象 (6/10)&lt;/color&gt;</Impressiveness.scoreStages.somewhat_impressive.label>
+	<Impressiveness.scoreStages.very_impressive.label>&lt;color=#5EA4FF&gt;大有印象 (7/10)&lt;/color&gt;</Impressiveness.scoreStages.very_impressive.label>
+	<Impressiveness.scoreStages.extremely_impressive.label>&lt;color=#D269FF&gt;特有印象 (8/10)&lt;/color&gt;</Impressiveness.scoreStages.extremely_impressive.label>
+
+</LanguageData>
