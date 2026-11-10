@@ -48,3 +48,5 @@ Numbers 原版自带汉化的按钮被 Numbers 汉化改成了英文？MainButto
 Realistic Rooms Rewritten 把 1.4 的汉化补丁复制进来了，Keyed 已修复
 
 Room Quality Colors 文字太长导致数值不显示，把“印象有些深刻”改短了（改的时候没绷住），RoomStatDef 已修复
+
+[O21] WikiRim (Continued) 在年份上多加了 {0}，汉化包也没有纠正这个错误，Keyed 已修复
