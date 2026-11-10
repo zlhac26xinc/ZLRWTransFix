@@ -2,4 +2,5 @@
 <LanguageData>
   <ToggleHarvest.CommandAllowHarvest>允许收获</ToggleHarvest.CommandAllowHarvest>
   <ToggleHarvest.CommandAllowHarvestDesc>当禁用时，殖民者将不会在这个区域收获植物。</ToggleHarvest.CommandAllowHarvestDesc>
+
 </LanguageData>
