@@ -16,9 +16,13 @@
         </li>
     </modDependencies>
     <loadAfter>
-        <li>PeteTimesSix.SimpleSidearms</li>
         <li>Mlie.MarkThatPawn</li>
         <li>Jaxe.ToggleHarvest</li>
+        <li>Mehni.Numbers</li>
+        <li>CC.Chinese.Rimworld.Numbers</li>
         <li>Lucifer.RealisticRooms</li>
+        <li>crtdgd.RoomQualityColors</li>
+        <li>Mlie.WikiRim</li>
+        <li>ZH.WikiRim</li>
     </loadAfter>
 </ModMetaData>
