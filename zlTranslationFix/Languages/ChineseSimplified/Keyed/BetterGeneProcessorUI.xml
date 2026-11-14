@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<TBGUI_SelectTargetBlank>选择目标...</TBGUI_SelectTargetBlank>
+	<TBGUI_SelectTargetFilled>目标: {0}</TBGUI_SelectTargetFilled>
+	<TBGUI_SelectTargetNone>无</TBGUI_SelectTargetNone>
+
+	<TBGUI_SkillsTitle>属性预览</TBGUI_SkillsTitle>
+
+	<TBGUI_ExistingGenogeneTooltip>现有的异种基因将被替换。</TBGUI_ExistingGenogeneTooltip>
+	<TBGUI_ExistingGenogeneReassemble>重组</TBGUI_ExistingGenogeneReassemble>
+	<TBGUI_ExistingGenogeneReassembleTip>尝试从基因库中选择基因组来复制目标的现有异种基因。\n\n注意事项：\n--只能从基因库中选择，无法添加基因库没有的基因。\n--不附带多余的基因——含有多余基因的基因组不会被选择。\n--已经选择的基因组不会被移除。需要手动移除现有选择来进行全新的重组。\n--此操作使用的集合论属于NP困难问题；也就是说，人类还没有弄清楚如何在数学上实现最优解。它会尝试优化基因组的使用，但可能并不完美！</TBGUI_ExistingGenogeneReassembleTip>
+
+	<TBGUI_EndogeneSectionHeader>系谱基因（保留，但可被覆盖）</TBGUI_EndogeneSectionHeader>
+	<TBGUI_XenogeneSectionHeader>现有异种基因（将被替换）</TBGUI_XenogeneSectionHeader>
+
+	<TBGUI_LibraryGenepacksTitleSuffix> (筛选中, 显示 {0}/{1} 个基因组)</TBGUI_LibraryGenepacksTitleSuffix>
+	<TBGUI_FiltersTitle>基因库筛选</TBGUI_FiltersTitle>
+	<TBGUI_FiltersCategoryHeader>显示包含以下内容的基因组</TBGUI_FiltersCategoryHeader>
+	<TBGUI_FiltersCategoryClearAllButton>全不选</TBGUI_FiltersCategoryClearAllButton>
+	<TBGUI_FiltersCategorySelectAllButton>全选</TBGUI_FiltersCategorySelectAllButton>
+	<TBGUI_FiltersOtherHeader>高级筛选</TBGUI_FiltersOtherHeader>
+	<TBGUI_Filter_ExcludePositive>排除正代谢率</TBGUI_Filter_ExcludePositive>
+	<TBGUI_Filter_ExcludeZeroCost>排除0代谢率 </TBGUI_Filter_ExcludeZeroCost>
+	<TBGUI_Filter_ExcludeNegative>排除负代谢率</TBGUI_Filter_ExcludeNegative>
+	<TBGUI_Filter_ExcludeSinglepack>排除单基因</TBGUI_Filter_ExcludeSinglepack>
+	<TBGUI_Filter_ExcludeMultipack>排除多基因</TBGUI_Filter_ExcludeMultipack>
+</LanguageData>

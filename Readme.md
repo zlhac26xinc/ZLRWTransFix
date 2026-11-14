@@ -23,3 +23,5 @@ Realistic Rooms Rewritten 复制 1.4 的汉化补丁，Keyed 已修复
 Room Quality Colors 文字太长导致数值不显示，把“印象有些深刻”改短了（改的时候没绷住），RoomStatDef 已修复
 
 [O21] WikiRim (Continued) 在年份上多加了 {0}，汉化包也没有纠正这个错误，Keyed 已修复
+
+Better Gene Processor UI 汉化，Keyed 已修复
